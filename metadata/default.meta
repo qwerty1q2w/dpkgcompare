@@ -1,0 +1,3 @@
+[commands/dpkgcompare]
+access = read : [ * ], write : [ admin ]
+export = system
